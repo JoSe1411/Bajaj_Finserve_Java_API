@@ -175,10 +175,6 @@ The compiled JAR file is available at:
 - [x] Executable JAR file included
 - [x] README documentation
 
-## 👤 Author
-
-Bajaj Finserv Health - Qualifier 1 Submission
-
 ## 📄 License
 
 This project is created for the Bajaj Finserv Health Qualifier 1 assessment.
