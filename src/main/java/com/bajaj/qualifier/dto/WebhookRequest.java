@@ -6,10 +6,7 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-/**
- * Request DTO for generating webhook.
- * Contains user details required for the POST request.
- */
+
 @Data
 @Builder
 @NoArgsConstructor
