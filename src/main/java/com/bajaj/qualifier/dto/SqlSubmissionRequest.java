@@ -6,10 +6,7 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-/**
- * Request DTO for submitting SQL query solution.
- * Contains the final SQL query to be submitted.
- */
+
 @Data
 @Builder
 @NoArgsConstructor
